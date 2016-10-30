@@ -1,0 +1,49 @@
+# =============== #
+# Unity generated #
+# =============== #
+Gamesparks/[Ll]ibrary/
+Gamesparks/[Tt]emp/
+Gamesparks/[Oo]bj/
+Gamesparks/[Bb]uild/
+Gamesparks/[Bb]uilds/
+Gamesparks/Assets/AssetStoreTools*
+Gamesparks/[Kk]eystore/
+Gamesparks/Assets/scenes/subScenes/
+Gamesparks/sysinfo.txt
+*.stackdump
+ 
+# ============================================= #
+# Visual Studio / MonoDevelop / Rider generated #
+# ============================================= #
+Gamesparks/[Ee]xported[Oo]bj/
+Gamesparks/.vs/
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+.idea*/
+*.suo
+ 
+# ============ #
+# OS generated #
+# ============ #
+Gamesparks/.DS_Store*
+Gamesparks/._*
+Gamesparks/.Spotlight-V100
+Gamesparks/.Trashes
+Gamesparks/ehthumbs.db
+EscapeRoom/[Tt]humbs.db
+EscapeRoom/[Dd]esktop.ini
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Builds
+*.apk
+*.unitypackage
+
+# Untracked folders
